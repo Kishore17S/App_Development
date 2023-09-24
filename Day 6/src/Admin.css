@@ -1,0 +1,135 @@
+.logo_admin{
+    width: 100px;
+    border-radius: 200px;
+    margin-top: -5px;
+    margin-left: 20px;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+}
+.admin_dashboard{
+   margin-left: 10px;
+   margin-top: 35px;
+   font-weight: bold;
+   font-size: 20px;
+   cursor: pointer;
+
+}
+.admin_start{
+    display: inline-block;
+}
+.admin_header{
+    /* display: inline-block; */
+    /* background-color: gray;
+    height: 100px;
+    width: 1536px;
+    margin-left: 200px;
+    margin-bottom: 20px; */
+    display: inline-block;
+    background-color: gray;
+    height: 100px;
+    width: 1536px;
+    /* margin-left: 200px; */
+    margin-bottom: 20px;
+}
+.admin_dash{
+    display: inline-block;
+    background-color: grey;
+}
+.admin_search{
+    margin-left: 200px;
+    height: 35px;
+    width: 450px;
+    border-radius: 5px;
+    color: black;
+    display: inline-block;
+    font-size: 20px;
+
+}
+.search{
+    display: inline-block;
+    margin-left: 10px;
+    font-weight: bold;
+   font-size: 20px;
+   cursor: pointer;
+   background-color: antiquewhite;
+   height: 30px;
+   width: 100px;
+}
+.home_admin{
+    display: inline-block;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(128, 128, 128, 0.011);
+    cursor: pointer;
+}
+.home_admin:hover{
+    color:rgb(239, 237, 237);
+}
+.profile_admin{
+    display: inline-block;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.profile_admin:hover{
+    color:rgb(239, 237, 237);
+}
+.logout_admin{
+    display: inline-block;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.logout_admin:hover{
+    color:rgb(239, 237, 237);
+}
+.admin_display{
+    margin-top: 30px;
+    margin-left: 670px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.admin_displays{
+    margin-top: 30px;
+    margin-left: 620px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.admin_slider{
+    display: inline-block;
+    background-color: grey;
+    height: 300px;
+    width: 200px;
+}
+.footer_app{
+    margin-top: 464px;
+    background-color: grey;
+    height: 50px;
+  }
+  .privacy_content{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 950px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .term_content{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .help_content{
+    display: inline-block;
+    margin-top: 15px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 16px;
+  }
