@@ -1,0 +1,54 @@
+ 
+  form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+  }
+
+  .id{
+    width: 93%;
+    padding: 12px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    background: transparent;
+    outline: none;
+    font-size: 1rem;
+    color: #333;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+  }
+
+  .cl{
+    color: black;
+  }
+  
+  /* button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #08872a;
+  }
+   */
